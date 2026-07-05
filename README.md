@@ -18,7 +18,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siddhartha0812&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=siddhartha0812&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
