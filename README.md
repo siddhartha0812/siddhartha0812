@@ -1,205 +1,187 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=SIDDHARTHA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20ideas%20into%20intelligent%20products&descAlignY=60&descSize=18" width="100%"/>
+<!--                        SIDDHARTHA.OS                           -->
 
-<h2>Hey 👋, I'm Siddhartha</h2>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3>Developer • AI Explorer • Problem Solver</h3>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=230&section=header&text=SIDDHARTHA.OS&fontSize=52&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20PROBLEM%20SOLVER&descSize=14&descColor=00E5FF&descAlignY=61"
+width="100%"
+/>
 
-<p>
-  <i>Turning ideas into intelligent products, one line of code at a time.</i>
-</p>
+<br>
 
-<br/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=%3E+initializing+developer+profile...;%3E+building+useful+software;%3E+exploring+artificial+intelligence;%3E+solving+real-world+problems;%3E+system+status%3A+ONLINE_"
+alt="Terminal typing animation"
+/>
 
-<a href="https://github.com/siddhartha0812">
-  <img src="https://img.shields.io/github/followers/siddhartha0812?label=Followers&style=for-the-badge&color=1D4ED8&logo=github"/>
-</a>
-<a href="https://github.com/siddhartha0812?tab=repositories">
-  <img src="https://img.shields.io/github/stars/siddhartha0812?affiliations=OWNER&style=for-the-badge&color=7C3AED&logo=github"/>
-</a>
-<a href="https://github.com/siddhartha0812">
-  <img src="https://komarev.com/ghpvc/?username=siddhartha0812&label=Profile%20Views&style=for-the-badge&color=0EA5E9"/>
-</a>
+<br><br>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=siddhartha0812&style=flat-square&label=PROFILE%20VIEWS&color=00E5FF" />
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
-</a>
-<a href="https://linkedin.com/in/siddharthav08">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+ 
+
+<img src="https://img.shields.io/github/followers/siddhartha0812?style=flat-square&label=FOLLOWERS&color=7C3AED" />
+
+ 
+
+<img src="https://img.shields.io/github/stars/siddhartha0812?affiliations=OWNER&style=flat-square&label=STARS&color=22C55E" />
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
-
-## 🧑‍💻 About Me
-
-I'm a developer passionate about building **useful software, AI-powered applications, and real-world solutions**.
-
-I enjoy taking an idea from:
+<div align="center">
 
 ```text
-💡 Idea
-   ↓
-🧠 Design
-   ↓
-💻 Development
-   ↓
-🧪 Testing
-   ↓
-🚀 Deployment
-   ↓
-🌍 Real-world Product
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   SIDDHARTHA // DEVELOPER CONSOLE                                  │
+│                                                                      │
+│   > whoami                                                          │
+│                                                                      │
+│   Developer passionate about technology, AI and building products   │
+│   that solve practical, real-world problems.                       │
+│                                                                      │
+│   > mission                                                          │
+│                                                                      │
+│   Turn ideas → software → useful products.                           │
+│                                                                      │
+│   STATUS: ● ONLINE                                                   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-### ⚡ What I'm interested in
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Modern Web Development
-* 🔐 Privacy-focused applications
-* 🏥 Healthcare Technology
-* 🧠 Data Structures & Problem Solving
-* 🚀 Building products from scratch
+</div>
 
 ---
 
-<!-- ==================== CURRENTLY ==================== -->
-
-## 🔭 Currently
+# `01` / SYSTEM STATUS
 
 <table>
 <tr>
-<td width="50%">
 
-### 🌱 Learning
+<td width="50%" valign="top">
 
-* 🐳 Docker
-* 🤖 AI / ML
-* 🧠 Data Structures & Algorithms
-* 🏗️ System Design
-* ⚙️ Backend Architecture
+### CURRENTLY LEARNING
+
+```text
+[■■■■■■■■■■] Docker
+[■■■■■■■■░░] AI / ML
+[■■■■■■■░░░] System Design
+[■■■■■■░░░░] DSA
+[■■■■■░░░░░] Open Source
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### CURRENTLY BUILDING
+
+```text
+> AI-powered applications
+> Healthcare technology
+> Privacy-focused systems
+> Modern web applications
+> Developer utilities
+```
 
 </td>
 
-<td width="50%">
-
-### 💡 Building
-
-* 🔐 Privacy-focused applications
-* 🏥 Healthcare technology
-* 🤖 AI-powered assistants
-* 🌐 Full-stack products
-* 🛠️ Developer utilities
-
-</td>
 </tr>
 </table>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+# `02` / TECHNOLOGY MATRIX
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Languages
+### LANGUAGES
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,sql" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
 
-### 🌐 Frontend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
+### WEB
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,nodejs,express&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
-</p>
+<br><br>
 
-### 🗄️ Database
+### DATA / INFRASTRUCTURE
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,firebase&theme=dark" />
 
-### 🧰 Tools & Platforms
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,vercel" />
-</p>
+### DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" />
+
+</div>
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+# `03` / PROJECT COMMAND CENTER
 
-# 🚀 Featured Projects
+> `SELECTED_WORK` — projects I'm building, exploring, or maintaining.
 
-<div align="center">
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🔐 GuptChat</h3>
-
-<p>
-Privacy-focused real-time communication platform.
-</p>
-
-<p>
-<b>React · Node.js · Express · Socket.IO</b>
-</p>
-
-<ul>
-<li>🔒 Privacy-focused architecture</li>
-<li>⚡ Real-time communication</li>
-<li>🔑 Room/passcode system</li>
-<li>🚫 No permanent message history</li>
-<li>📱 Responsive interface</li>
-</ul>
+```text
+┌────────────────────────────────────┐
+│ PROJECT_001                        │
+│                                    │
+│ GUPTCHAT                           │
+│ ─────────                          │
+│                                    │
+│ Privacy-focused real-time          │
+│ communication platform.            │
+│                                    │
+│ React · Node · Socket.IO           │
+│                                    │
+│ [ REAL-TIME ] [ PRIVACY ]          │
+│ [ ROOMS ]     [ WEBSOCKETS ]       │
+└────────────────────────────────────┘
+```
 
 <a href="https://github.com/siddhartha0812">
-<img src="https://img.shields.io/badge/View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🏥 Medical Chatbot</h3>
-
-<p>
-AI-powered healthcare assistance project.
-</p>
-
-<p>
-<b>Python · NLP · Machine Learning</b>
-</p>
-
-<ul>
-<li>🩺 Symptom assessment</li>
-<li>🧠 Disease analysis</li>
-<li>📄 Report analysis</li>
-<li>💊 Medication information</li>
-<li>💬 Conversational interaction</li>
-</ul>
+```text
+┌────────────────────────────────────┐
+│ PROJECT_002                        │
+│                                    │
+│ MEDICAL AI                         │
+│ ─────────                          │
+│                                    │
+│ AI-assisted healthcare             │
+│ exploration platform.              │
+│                                    │
+│ Python · NLP · ML                  │
+│                                    │
+│ [ AI ]       [ HEALTHCARE ]        │
+│ [ NLP ]      [ ANALYSIS ]          │
+└────────────────────────────────────┘
+```
 
 <a href="https://github.com/siddhartha0812">
-<img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </td>
@@ -210,51 +192,191 @@ AI-powered healthcare assistance project.
 
 <td width="50%" valign="top">
 
-<h3>🛒 Smart Grocery List</h3>
-
-<p>
-Voice-enabled grocery management application.
-</p>
-
-<p>
-<b>Python · Tkinter · Speech Recognition · JSON</b>
-</p>
-
-<ul>
-<li>🎤 Voice input</li>
-<li>➕ Add / remove items</li>
-<li>🔄 Duplicate detection</li>
-<li>💾 Persistent storage</li>
-</ul>
+```text
+┌────────────────────────────────────┐
+│ PROJECT_003                        │
+│                                    │
+│ SMART GROCERY LIST                 │
+│ ──────────────────                 │
+│                                    │
+│ Voice-enabled grocery              │
+│ management application.            │
+│                                    │
+│ Python · Tkinter · JSON            │
+│                                    │
+│ [ VOICE ]    [ AUTOMATION ]        │
+│ [ DESKTOP ]  [ STORAGE ]           │
+└────────────────────────────────────┘
+```
 
 <a href="https://github.com/siddhartha0812/Smart-Grocery-List">
-<img src="https://img.shields.io/badge/View%20Project-059669?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🚑 Emergency Medicine Network</h3>
-
-<p>
-Healthcare resource availability platform.
-</p>
-
-<p>
-<b>Healthcare · Real-time Availability · Emergency Systems</b>
-</p>
-
-<ul>
-<li>💊 Medicine availability</li>
-<li>🏥 Hospital resources</li>
-<li>🛏️ Bed availability</li>
-<li>🚨 Emergency alerts</li>
-<li>📍 Nearby resources</li>
-</ul>
+```text
+┌────────────────────────────────────┐
+│ PROJECT_004                        │
+│                                    │
+│ EMERGENCY NETWORK                  │
+│ ─────────────────                  │
+│                                    │
+│ Healthcare resource                │
+│ availability platform.             │
+│                                    │
+│ Medicine · Hospitals · Beds        │
+│                                    │
+│ [ HEALTHCARE ] [ EMERGENCY ]       │
+│ [ AVAILABILITY ] [ ALERTS ]        │
+└────────────────────────────────────┘
+```
 
 <a href="https://github.com/siddhartha0812">
-<img src="https://img.shields.io/badge/View%20Project-EF4444?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F87171?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `04` / GITHUB SYSTEM
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=siddhartha0812&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1"
+height="175"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0812&layout=compact&langs_count=7&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&text_color=CBD5E1"
+height="175"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=siddhartha0812&hide_border=true&background=0A0A0A&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B&currStreakNum=F5F5F5&sideNums=F5F5F5"
+width="80%"
+/>
+
+</div>
+
+---
+
+# `05` / ACTIVITY MONITOR
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0812&bg_color=0A0A0A&color=CBD5E1&line=00E5FF&point=7C3AED&area_color=1D4ED8&area=true&hide_border=true&custom_title=SIDDHARTHA%20/%20CONTRIBUTION%20ACTIVITY"
+width="100%"
+/>
+
+</div>
+
+---
+
+# `06` / CONTRIBUTION MAP
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/siddhartha0812/siddhartha0812/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub contribution snake"
+/>
+
+</div>
+
+---
+
+# `07` / DEVELOPMENT JOURNEY
+
+```text
+2026
+│
+├── 01 ── Docker
+│         Containerization / deployment
+│
+├── 02 ── Artificial Intelligence
+│         NLP / ML / intelligent applications
+│
+├── 03 ── Healthcare Technology
+│         Medical / emergency systems
+│
+├── 04 ── Privacy
+│         Secure communication
+│
+├── 05 ── Problem Solving
+│         DSA / algorithms / LeetCode
+│
+└── 06 ── Open Source
+          Collaboration / contribution
+```
+
+---
+
+# `08` / GITHUB METRICS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 📦
+
+**REPOSITORIES**
+
+<a href="https://github.com/siddhartha0812?tab=repositories">
+Explore →
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### ⭐
+
+**STARS**
+
+<a href="https://github.com/siddhartha0812?tab=repositories">
+Explore →
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 👥
+
+**FOLLOWERS**
+
+<a href="https://github.com/siddhartha0812?tab=followers">
+Explore →
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥
+
+**STREAK**
+
+<a href="https://github.com/siddhartha0812">
+View →
 </a>
 
 </td>
@@ -266,146 +388,56 @@ Healthcare resource availability platform.
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-# 📊 GitHub Analytics
+# `09` / CODING TERMINAL
 
 <div align="center">
 
-<a href="https://github.com/siddhartha0812">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=siddhartha0812&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=8B5CF6&text_color=64748B"/>
-</a>
+```text
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│  $ coding --profiles                             │
+│                                                   │
+│  LeetCode       →  ACTIVE                         │
+│  HackerRank     →  ACTIVE                         │
+│  GeeksforGeeks  →  ACTIVE                         │
+│                                                   │
+│  $ status                                         │
+│                                                   │
+│  solving problems...                              │
+│                                                   │
+└───────────────────────────────────────────────────┘
+```
 
-<a href="https://github.com/siddhartha0812">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0812&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B"/>
-</a>
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION STREAK ==================== -->
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/siddhartha0812">
-
-<img src="https://streak-stats.demolab.com?user=siddhartha0812&hide_border=true&background=00000000&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&sideLabels=64748B&dates=64748B&currStreakNum=0F172A&sideNums=0F172A"/>
-
-</a>
-
-</div>
-
----
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/siddhartha0812">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0812&bg_color=ffffff00&color=3B82F6&line=7C3AED&point=0EA5E9&area=true&hide_border=true&custom_title=Siddhartha's%20Contribution%20Activity"/>
-
-</a>
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddhartha0812/siddhartha0812/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> ⚠️ The snake requires a GitHub Actions workflow in this profile repository. Setup instructions are provided below.
-
----
-
-<!-- ==================== GITHUB TROPHIES ==================== -->
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddhartha0812&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-
-</a>
-
-</div>
-
----
-
-<!-- ==================== STATS SNAPSHOT ==================== -->
-
-# 📌 GitHub Snapshot
-
-<div align="center">
-
-<img src="https://img.shields.io/github/repos/siddhartha0812?style=for-the-badge&label=Public%20Repositories&color=3B82F6"/>
-
-<img src="https://img.shields.io/github/followers/siddhartha0812?style=for-the-badge&label=Followers&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/siddhartha0812?style=for-the-badge&label=Stars&color=F59E0B"/>
-
-<br/>
-
-<img src="https://img.shields.io/github/last-commit/siddhartha0812/Smart-Grocery-List?style=for-the-badge&color=10B981"/>
-
-</div>
-
----
-
-<!-- ==================== DEVELOPMENT PHILOSOPHY ==================== -->
-
-# 💭 My Development Philosophy
-
-<div align="center">
-
-### **Build → Break → Learn → Improve → Repeat**
-
-<br/>
-
-> "Good software solves a problem.
-> Great software makes the problem feel simple."
-
-</div>
-
----
-
-<!-- ==================== CONNECT ==================== -->
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/siddharthav08">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://leetcode.com/siddhartha">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000"/>
 </a>
 
 <a href="https://www.hackerrank.com/siddhartha">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.leetcode.com/siddhartha">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/siddhartha">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+---
+
+# `10` / CONNECT
+
+<div align="center">
+
+<a href="https://linkedin.com/in/siddharthav08">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -414,16 +446,34 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha08
 
 <div align="center">
 
-### 👀 Thanks for visiting!
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   $ systemctl status siddhartha                        │
+│                                                        │
+│   ● ACTIVE                                             │
+│                                                        │
+│   Building ideas.                                      │
+│   Learning continuously.                               │
+│   Solving problems.                                    │
+│                                                        │
+│   uptime: ∞                                            │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
 
-<img src="https://komarev.com/ghpvc/?username=siddhartha0812&label=Profile%20Views&style=flat-square&color=3B82F6"/>
+<br>
 
-<br/><br/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=500&lines=Build.+Learn.+Improve.+Repeat.;Thanks+for+visiting+my+workspace+%3C3"
+alt="Footer animation"
+/>
 
-<i>Building ideas. Solving problems. Learning every day.</i>
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:172554,100:4C1D95&height=100&section=footer"
+width="100%"
+/>
 
 </div>
-
-<!-- ==================== FOOTER ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%"/>
