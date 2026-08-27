@@ -12,6 +12,9 @@
 <a href="https://leetcode.com/u/siddharthav08/">
   <img src="https://img.shields.io/badge/LeetCode-080808?style=flat-square&logo=leetcode&logoColor=E5E5E5"/>
 </a>
+<a href="mailto:siddharthaverma0810@gmail.com">
+  <img src="https://img.shields.io/badge/Email-080808?style=flat-square&logo=gmail&logoColor=E5E5E5"/>
+</a>
 &nbsp;
 <a href="https://github.com/siddhartha0812">
   <img src="https://img.shields.io/badge/GitHub-080808?style=flat-square&logo=github&logoColor=E5E5E5"/>
