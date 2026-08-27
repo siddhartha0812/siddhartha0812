@@ -157,7 +157,7 @@ Exploring a system for improving access to real-time information about medicine 
 
 <a href="https://www.hackerrank.com/parvverma0810">HackerRank</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/siddhartha/">GeeksforGeeks</a>
+<a href="https://www.geeksforgeeks.org/user/siddhartha08/">GeeksforGeeks</a>
 
 </div>
 
