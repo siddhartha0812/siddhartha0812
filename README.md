@@ -158,9 +158,15 @@ Exploring a system for improving access to real-time information about medicine 
 
 <div align="center">
 
+
+<a href="mailto:siddharthaverma0810@gmail.com">E-Mail</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/siddharthav08">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/parvverma0810">HackerRank</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/siddhartha08/">GeeksforGeeks</a>
+
 
 </div>
 
