@@ -129,6 +129,7 @@ Exploring a system for improving access to real-time information about medicine 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhartha0812&theme=github_dark"
   width="92%"
+  alt="Profile Details"
 />
 
 <br/><br/>
@@ -136,19 +137,23 @@ Exploring a system for improving access to real-time information about medicine 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhartha0812&theme=github_dark"
   width="44%"
+  alt="Stats"
 />
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhartha0812&theme=github_dark"
   width="44%"
+  alt="Most Commit Language"
 />
 
 <br/><br/>
-
+<!--
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddhartha0812&theme=github_dark&utcOffset=5.5"
+  src="./profile-summary-card-output/github_dark/4-productive-time.svg"
   width="44%"
+  alt="Productive Time"
 />
+-->
 
 </div>
 
