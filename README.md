@@ -76,13 +76,12 @@ A classic game supporting both voice commands and traditional keyboard input.
 
 <td width="50%" valign="top">
 
-### Emergency Medicine Network
+### VIRASAT — Digital Guardian of Indian Culture
 
-`Concept` · `Healthcare Technology`
+`HTML` · `CSS` · `JavaScript` 
 
-Exploring a system for improving access to real-time information about medicine availability, hospital beds, pharmacies, and emergency facilities.
-
-<sub>currently exploring</sub>
+VIRASAT bridges physical exhibits and digital cultural stories through QR/NFC-ready discovery. This static, no-build MVP is designed for a reliable Smart India Hackathon demonstration.
+<a href="https://github.com/siddhartha0812/VIRASAT-Digital-Guardian">repository</a>
 
 </td>
 
