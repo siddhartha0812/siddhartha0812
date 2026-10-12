@@ -16,7 +16,7 @@
 <a href="https://github.com/siddhartha0812">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github"/>
 </a>
-<a href="YOUR_GOOGLE_DRIVE_LINK">
+<a href="https://drive.google.com/file/d/11B4V_Xy7Q4K55eVfDNP9hobPnE13SP0j/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 </div>
