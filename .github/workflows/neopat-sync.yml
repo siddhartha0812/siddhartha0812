@@ -1,0 +1,47 @@
+
+name: NeoPAT Score Auto Sync
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-score:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch NeoPAT data
+        env:
+          NEOPAT_AUTHORIZATION: ${{ secrets.NEOPAT_AUTHORIZATION }}
+        run: python scripts/fetch_neopat.py
+
+      - name: Generate score card
+        run: python scripts/generate_card.py
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/neopat-score.svg data/neopat.json
+
+          git diff --cached --quiet || (
+            git commit -m "Update NeoPAT score"
+            git push
+          )
