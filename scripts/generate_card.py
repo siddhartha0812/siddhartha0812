@@ -73,16 +73,16 @@ def generate_card():
     width="900" height="340" viewBox="0 0 900 340">
 
     <defs>
-        <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0%" stop-color="#0d1117"/>
-            <stop offset="100%" stop-color="#0d1117"/>
-        </linearGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0d1117"/>
+        <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
 
-        <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0%" stop-color="#58a6ff"/>
-            <stop offset="100%" stop-color="#818CF8"/>
-        </linearGradient>
-    </defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#58a6ff"/>
+        <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+</defs>
 
     <!-- Background -->
     <rect x="1" y="1" width="898" height="338"
