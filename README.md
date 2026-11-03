@@ -127,6 +127,13 @@ VIRASAT bridges physical exhibits and digital cultural stories through QR/NFC-re
   alt="Productive Time"
 />
 -->
+<p align="center">
+  <img
+    src="./assets/neopat-score.svg"
+    width="100%"
+    alt="NeoPAT Performance"
+  />
+</p>
 
 </div>
 
