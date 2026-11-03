@@ -74,12 +74,12 @@ def generate_card():
 
     <defs>
         <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0%" stop-color="#111827"/>
-            <stop offset="100%" stop-color="#172554"/>
+            <stop offset="0%" stop-color="#0d1117"/>
+            <stop offset="100%" stop-color="#0d1117"/>
         </linearGradient>
 
         <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0%" stop-color="#60A5FA"/>
+            <stop offset="0%" stop-color="#58a6ff"/>
             <stop offset="100%" stop-color="#818CF8"/>
         </linearGradient>
     </defs>
@@ -87,101 +87,101 @@ def generate_card():
     <!-- Background -->
     <rect x="1" y="1" width="898" height="338"
           rx="22" fill="url(#background)"
-          stroke="#334155" stroke-width="2"/>
+          stroke="#30363d" stroke-width="2"/>
 
     <!-- Header -->
-    <text x="35" y="48" fill="#FFFFFF"
+    <text x="35" y="48" fill="#c9d1d9"
           font-family="Arial" font-size="23"
           font-weight="bold">
         NEOPAT PERFORMANCE
     </text>
 
     <rect x="740" y="22" width="125" height="31"
-          rx="15" fill="#064E3B"/>
+          rx="15" fill="#238636"/>
 
-    <text x="802" y="43" fill="#6EE7B7"
+    <text x="802" y="43" fill="#ffffff"
           font-family="Arial" font-size="12"
           text-anchor="middle" font-weight="bold">
         AUTO SYNC
     </text>
 
     <!-- Overall Score -->
-    <text x="36" y="95" fill="#94A3B8"
+    <text x="36" y="95" fill="#8b949e"
           font-family="Arial" font-size="13">
         OVERALL SCORE
     </text>
 
-    <text x="34" y="165" fill="#FFFFFF"
+    <text x="34" y="165" fill="#c9d1d9"
           font-family="Arial" font-size="65"
           font-weight="bold">
         {safe(total)}
     </text>
 
-    <text x="36" y="197" fill="#60A5FA"
+    <text x="36" y="197" fill="#58a6ff"
           font-family="Arial" font-size="17">
         Level {safe(level)}
     </text>
 
     <!-- Divider -->
     <line x1="330" y1="78" x2="330" y2="235"
-          stroke="#334155"/>
+          stroke="#30363d"/>
 
     <!-- Coding -->
-    <text x="370" y="105" fill="#94A3B8"
+    <text x="370" y="105" fill="#8b949e"
           font-family="Arial" font-size="13">
         CODING SCORE
     </text>
 
-    <text x="370" y="150" fill="#60A5FA"
+    <text x="370" y="150" fill="#58a6ff"
           font-family="Arial" font-size="38"
           font-weight="bold">
         {safe(coding)}
     </text>
 
-    <text x="370" y="180" fill="#CBD5E1"
+    <text x="370" y="180" fill="#c9d1d9"
           font-family="Arial" font-size="14">
         Accuracy: {safe(coding_accuracy)}
     </text>
 
     <!-- MCQ -->
-    <text x="620" y="105" fill="#94A3B8"
+    <text x="620" y="105" fill="#8b949e"
           font-family="Arial" font-size="13">
         MCQ SCORE
     </text>
 
-    <text x="620" y="150" fill="#34D399"
+    <text x="620" y="150" fill="#3fb950"
           font-family="Arial" font-size="38"
           font-weight="bold">
         {safe(mcq)}
     </text>
 
-    <text x="620" y="180" fill="#CBD5E1"
+    <text x="620" y="180" fill="#c9d1d9"
           font-family="Arial" font-size="14">
         Accuracy: {safe(mcq_accuracy)}
     </text>
 
     <!-- Bottom section -->
     <line x1="35" y1="235" x2="865" y2="235"
-          stroke="#334155"/>
+          stroke="#30363d"/>
 
-    <text x="36" y="270" fill="#94A3B8"
+    <text x="36" y="270" fill="#8b949e"
           font-family="Arial" font-size="13">
         QUESTIONS SOLVED
     </text>
 
-    <text x="36" y="307" fill="#FFFFFF"
+    <text x="36" y="307" fill="#c9d1d9"
           font-family="Arial" font-size="25"
           font-weight="bold">
         {solved} / {attended}
     </text>
 
-    <text x="865" y="270" fill="#94A3B8"
+    <text x="865" y="270" fill="#8b949e"
           font-family="Arial" font-size="12"
           text-anchor="end">
         LAST SYNCHRONIZED
     </text>
 
-    <text x="865" y="307" fill="#34D399"
+    <text x="865" y="307" fill="#3fb950"
           font-family="Arial" font-size="14"
           text-anchor="end">
         {safe(last_updated)}
